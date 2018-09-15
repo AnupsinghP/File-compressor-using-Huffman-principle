@@ -1,4 +1,4 @@
-/* ANUPSINGH PARDESHI cs610 3859 prp */
+/* ANUPSINGH PARDESHI prp */
 
 ///<Class>
 ///node_3859 is class for creating nodes in the huffman tree.
